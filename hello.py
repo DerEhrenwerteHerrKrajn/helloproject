@@ -1,2 +1,5 @@
 #!/usr/bin/env python3
-print("Hallo Leute")
+name = input("Hallo. Wie heißen sie?\n")
+#print("Hallo ", name, "!")
+#Alternativ:
+print(f'Guten Tag, {name}!')
