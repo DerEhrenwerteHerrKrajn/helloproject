@@ -6,3 +6,4 @@ name = input("Hallo. Wie heißen sie?\n")
 #Alternativ:
 print(f'Guten Tag, {name}! Es ist der {currentTime}.')
 print("Hoffe ich zumindest.")
+#end
